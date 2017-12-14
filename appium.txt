@@ -1,0 +1,4 @@
+[caps]
+platformName = "Android"
+deviceName = 'test'
+app = "/Users/viniciustenorio/Documents/workspace/projects/projeto_appium/build/appium.apk"
